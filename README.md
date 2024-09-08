@@ -1,6 +1,7 @@
 # Comparative Scater Plots
 
-Small university assignment completed in a week of challenges
+Small Python UI diplaying scatter plots from excel file allowing users to view information side by side and compare trends.
+Application showcased: comparing distribution of marks per module in a cohort of students
 
 ## Features: 
 - display scatter plots of student's marks in different modules
